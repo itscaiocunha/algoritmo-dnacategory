@@ -32,7 +32,7 @@ relatório de pesquisa do projeto.
 
 ## Motivação
 
-Dados de sequenciamento de nova geração (NGS) raramente são perfeitos. Baixa
+Dados de sequenciamento de nova geração (NGS) raramente são perfeitos. Baixa 
 cobertura de leitura e ambiguidades biológicas geram posições desconhecidas,
 representadas pelo código IUPAC `N`. Bases ambíguas degradam alinhadores como
 o BLAST e distorcem análises filogenéticas. É o fenômeno *Garbage In, Garbage
