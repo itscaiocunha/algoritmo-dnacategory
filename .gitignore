@@ -1,9 +1,14 @@
 .vscode/
+.venv/
 algoritmo-cat/
+
+# Dados (grandes demais para o git; veja o README para obtê-los)
+data/
 
 # Cache e arquivos compilados do Python
 __pycache__/
 *.pyc
+.pytest_cache/
 
 # Arquivos de Sistema Operacional
 .DS_Store
